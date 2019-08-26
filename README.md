@@ -3,9 +3,9 @@
 
 ## Quick Links:
 
-Preview meetup slides: https://github.com/ladieslearningcode/llc-digital-safety-and-privacy/slides-en.html
+Preview meetup slides: [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-en.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-en.html)
 
-Instructor notes:https://github.com/ladieslearningcode/llc-digital-safety-and-privacy/notes-en.html
+Instructor notes: [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/notes-en.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/notes-en.html)
 
 ## ATTRIBUTIONS:
 
