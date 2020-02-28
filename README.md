@@ -1,5 +1,7 @@
+[TESTING - NOT YET AVAILABLE TO CHAPTERS]
+
 # Ladies Learning code
-# Digital Safety + Privacy Meetup
+# Digital Safety & Privacy
 
 ## Quick Links:
 
