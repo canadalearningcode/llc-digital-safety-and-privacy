@@ -3,7 +3,7 @@
 
 ## Quick Links:
 
-Preview meetup slides: [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-en.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-en.html)
+Preview slides: [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-en.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-en.html)
 
 Instructor notes: [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/notes-en.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/notes-en.html)
 
@@ -27,13 +27,13 @@ Here’s an easy way to attribute content back to us - please include it whereve
 
 Our general Rule of Thumb is that it's okay to add examples if you feel it could provide more context for your community. However, we ask that instructors do not remove anything, as the content is designed with intention, whether that be meeting specific learning objectives, or maintaining our organization’s culture through the design.  Any suggestions for revisions or updates can be submitted in Github via issues and pull requests. If submitting an issue, please include the slide number(s) in the title.
 
-
+<!--
 # Femmes en programmation
 # Cybersécurité et vie privée : rencontre
 
 ## Liens rapides :
 
-Diapositives de la rencontre : [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-fr.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-fr.html)
+Diapositives : [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-fr.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/slides-fr.html)
 
 Notes de la formatrice : [https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/notes-fr.html](https://ladieslearningcode.github.io/llc-digital-safety-and-privacy/notes-fr.html)
 
@@ -55,4 +55,4 @@ Nous vous invitons à ajouter ce petit passage aux endroits où vous citez ou ut
 
 ## Contribution
 
-En général, vous avez le droit d'ajouter des exemples si vous jugez qu'ils soutiennent l'apprentissage de votre groupe d'apprenants. Toutefois, nous demandons aux formatrices de ne pas supprimer de contenu, car chaque élément a sa raison d'être. Par exemple, le contenu sert à atteindre un objectif d'apprentissage précis et la conception graphique reflète la culture de notre organisme.  Si vous avez des suggestions ou croyez qu'un certain contenu doit être modifié, soumettez vos commentaires par Github (problèmes (issues) ou demandes de retrait (pull requests)). Si vous soumettez un problème, veuillez inclure le numéro des diapositives dans le titre.
+En général, vous avez le droit d'ajouter des exemples si vous jugez qu'ils soutiennent l'apprentissage de votre groupe d'apprenants. Toutefois, nous demandons aux formatrices de ne pas supprimer de contenu, car chaque élément a sa raison d'être. Par exemple, le contenu sert à atteindre un objectif d'apprentissage précis et la conception graphique reflète la culture de notre organisme.  Si vous avez des suggestions ou croyez qu'un certain contenu doit être modifié, soumettez vos commentaires par Github (problèmes (issues) ou demandes de retrait (pull requests)). Si vous soumettez un problème, veuillez inclure le numéro des diapositives dans le titre.-->
